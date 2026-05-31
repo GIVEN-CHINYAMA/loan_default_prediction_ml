@@ -239,10 +239,10 @@ jupyter notebook loan_default_prediction_ml.ipynb
 ## 📌 Repository Structure
 loan_default_prediction_ml/
 │
-├── loan_default_prediction_ml.ipynb   ← Complete end-to-end notebook
-├── README.md                          ← This file
-├── .gitignore                         ← Python gitignore
-└── LICENSE                            ← MIT License
+├── loan_default_prediction_ml.ipynb ← Complete end-to-end notebook
+├── README.md ← This file
+├── .gitignore ← Python gitignore
+└── LICENSE ← MIT License
 ```
 
 ---
