@@ -9,8 +9,11 @@ markdown# 🏦 Loan Default Prediction Using Machine Learning
 [![Status](https://img.shields.io/badge/Status-Complete-2ecc71?style=flat)](https://github.com/GIVEN-CHINYAMA/loan_default_prediction_ml)
 
 **Author:** Given Chinyama
+
 **Institution:** Kwame Nkrumah University
+
 **Date:** May 2026
+
 **GitHub:** [github.com/GIVEN-CHINYAMA](https://github.com/GIVEN-CHINYAMA)
 
 ---
@@ -240,6 +243,7 @@ loan_default_prediction_ml/
 ├── README.md                          ← This file
 ├── .gitignore                         ← Python gitignore
 └── LICENSE                            ← MIT License
+```
 
 ---
 
